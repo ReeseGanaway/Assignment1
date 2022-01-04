@@ -36,3 +36,8 @@ h1 {
   #img-caption {
     margin: 15px 0 5px 0;
   }
+
+  h3{
+      font-size: small;
+      font-style: italic;
+  }
