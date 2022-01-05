@@ -1,0 +1,75 @@
+body{
+  background-color: rgba(134, 160, 160, 0.226) !important;
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+  'Helvetica Neue', Arial, sans-serif;
+font-size: 1.6rem;
+line-height: 1.5;
+text-align: center;
+color: #333;
+margin: 20px;
+}
+
+.topnav{
+  overflow: hidden;
+  background-color: black;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+h2 {
+  font-size: 4px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h4{
+  font-size: 12rem;
+}
+
+a {
+  color: #477ca7;
+}
+img {
+  width: 500px;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  width:100%;
+  max-width: 100px;
+}
+
+#p3p1{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#wiki-link{
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+#donation-button{
+  display: flex;
+  margin: auto;
+  padding: 50px 100px;
+  text-align: center;
+  border: 5px solid blue;
+  background-color: cornflowerblue;
+  left: 50%;
+  
+}
