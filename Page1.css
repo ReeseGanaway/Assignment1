@@ -9,26 +9,25 @@ body{
   color: #333;
   margin: 0;
 }
-h1 {
+#title {
     font-size: 4rem;
     padding-top: 100px;
     padding-bottom: 20px;
     text-align: center;
   }
-  #headline {
-    font-size: 1.6rem;
-    text-align: center;
-  }
-
+  
   #subtitle{
     text-align: center;
     font-size: 1.6rem;
-    padding-bottom: 100px;
   }
   
-  a {
-    color: #477ca7;
+
+  #Earths-Melting-Ice-Caps-Heading{
+    font-size: 1.6rem;
+    text-align: center;
+    padding-top: 100px;
   }
+
   #melted-glaciers-img {
     width: 1000px;
     max-width: 100%;
@@ -39,11 +38,31 @@ h1 {
     padding-top:50px
   }
   
-  #img-div {
-    padding: 100px;
-    margin: 0;
+  #Sea-Levels-link{
+    text-align: center;
   }
+
+
+  a{
+    color:#477ca7 ;
+  }
+
+  #Worsening-Storms-Heading{
+    padding-top: 100px;
+    font-size: 1.6rem;
+    text-align: center;
+  }
+
+  #flooded-new-orleans-img{
+    width: 1000px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    padding-bottom: 50px ;
+    padding-top:50px
+  }
+
+
+
   
-  #img-caption {
-    margin: 15px 0 5px 0;
-  }
